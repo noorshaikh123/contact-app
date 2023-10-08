@@ -1,0 +1,29 @@
+.contactcard{
+    background-color: #b3b3ff;
+    width: 400px;
+    padding: 5px;
+    margin-top: 20px;
+    box-shadow: 0 0 5px blue;
+    border-radius: 15px;
+    position: relative;
+}
+.contactname{
+    font-size: 20px;
+    margin: 2px;
+}
+.deletebutton{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    height: 25px;
+    display: block;
+    cursor: pointer;
+}
+.editbtn{
+    height: 25px;
+    cursor: pointer;
+    display: block;
+    position: absolute;
+    bottom: 5px;
+    right: 40px;
+}

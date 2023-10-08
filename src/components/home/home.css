@@ -1,0 +1,40 @@
+/* text:#000099
+subtext: #0000cc
+background: #b3b3ff
+box: #6666ff
+*/
+
+.home-title{
+    text-align: center;
+    color: #000099;
+    font-size: 40px; 
+}
+body{
+    background-color: #e6e6ff;
+}
+.subheading{
+    font-size: 30px;
+    text-align: center;
+    color: #0000cc;
+}
+.container{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.userinput{
+    font-size: 20px;
+    margin-top: 30px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.btnsubmit{
+    display: block;
+    margin: 40px auto;
+    padding:  10px 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    background-color: #6666ff;
+    cursor: pointer;
+}
