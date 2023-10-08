@@ -7,18 +7,18 @@ export default function Home() {
     const [contacts, setContacts] = useState(
         [
             {
-                name: 'Noor',
-                mobile: '7089725354',
-                email: 'noor@gmail.com'
+                name: 'abc',
+                mobile: '70***25354',
+                email: 'abc@gmail.com'
             },
             {
-                name: 'Naaz',
-                mobile: '754675354',
-                email: 'naaz@gmail.com'
+                name: 'pqr',
+                mobile: '75467535***',
+                email: 'pqr@gmail.com'
             },
             {
                 name: 'frd',
-                mobile: '7089754524',
+                mobile: '7089***024',
                 email: 'frd@gmail.com'
             },
         ]
